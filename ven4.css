@@ -1,4 +1,15 @@
 /* Verical golive screen selection */
+.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeMin-3Yqxk5.grow-2T4nbg {
+    border-radius: 10px;
+    font-size: 8px;
+    margin-left: 12px !important;
+    text-transform: uppercase;
+}
+
+.button-ejjZWC.lookFilled-1H2Jvj.colorBrand-2M3O3N.sizeMin-3Yqxk5.grow-2T4nbg > .contents-3NembX {
+    padding: 2px 2px 0 2px;
+}
+/* Verical golive screen selection */
 .sourceContainer-1uqUbz {
     flex-direction: column;
 }
