@@ -1,3 +1,18 @@
+/* Verical golive screen selection */
+.sourceContainer-1uqUbz {
+    flex-direction: column;
+}
+.sourceName-3Wf8QG {
+    width: unset;
+}
+.tile-3POX2m > .flex-2S1XBF {
+    flex-direction: row;
+    justify-content: start;
+}
+.tile-3POX2m > .flex-2S1XBF > .flex-2S1XBF {
+    flex: unset !important;
+    margin-right: 16px;
+}
 /* Hides the Billing Settings stuff from discord settings */
 @import url(https://captain8771.github.io/discordstyles/CompactCord.css)
 /*Disabling Library & Nitro & Birthday Buttons on DM*/
