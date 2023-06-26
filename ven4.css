@@ -88,19 +88,6 @@ display: none;
 .vc-spotify-button-row button:hover {
   background: var(--bg-overlay-4, var(--background-secondary)) !important;
 }
-/*hmmm*/
-[class^=userPopoutOuter-]:has([src*="411049905272913921"]) [class^=profileBadges-]::after {
-    content: '';
-    height: 22px;
-    width: 22px;
-    background: url('https://res.cloudinary.com/dqypfpnvb/image/upload/v1684873511/su5onrgvrxdzl4gp6idi.png');
-    margin: 4px;
-    background-size: contain;
-    border-radius: 2px;
-}
-[class^=userPopoutOuter-] [class^=profileBadges-][class*=containerWithContent-]::after {
-  margin: 0 !important;
-}
 /* hide profile pencil */
 [class^=pencilContainer] {
   display: none;
